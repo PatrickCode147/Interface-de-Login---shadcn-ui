@@ -4,7 +4,7 @@ import { defineConfig } from "vite"
 
 export default defineConfig({
   plugins: [react()],
-  base: "/sign-interface",
+  base: "/Interface-de-Login---shadcn-ui",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
