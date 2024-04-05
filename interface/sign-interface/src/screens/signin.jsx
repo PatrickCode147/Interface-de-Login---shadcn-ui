@@ -18,7 +18,7 @@ export function SignIn() {
             <CarouselContent>
               <CarouselItem>
                 <div className="flex aspect-square bg-background rounded p-8">
-                  <img src={driveImg} alt="Plataformas" />
+                  <img src={driveImg} alt="Plataforma" />
                 </div>
               </CarouselItem>
               <CarouselItem>
